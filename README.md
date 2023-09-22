@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋🏻, I'm Ameer </br> 
 </h1>
-<p align="center">Security Enthusiast. Always trying to learn things. 🕵️</p>
+<p align="center">Security Enthusiast. Always trying to learn new things. 🕵️</p>
 
 <p align="center">
 <a href="https://ethicalhackers.club" target="_blank"><img width="210" src="https://media.tenor.com/1Qah7X4zx3oAAAAi/neon-cat-rainbow.gif"></a>
